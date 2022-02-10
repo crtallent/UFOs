@@ -57,9 +57,10 @@ function filterTable() {
   let filteredData = tableData;
   
     // 9. Loop through all of the filters and keep any data that
-    // matches the filter values
+    // matches the filter values (code from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries )
+    
   Object.entries(filters).forEach(([key, value]) => {
-     filteredData = filteredData.filter(row => row[key] === value);
+      filteredData = filteredData.filter(row => row[key] == value);
    });
   
     // 10. Finally, rebuild the table using the filtered data
