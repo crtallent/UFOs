@@ -21,3 +21,7 @@ The webpage can be accessed via this [link](https://crtallent.github.io/UFOs/).
 This webpage is a user-friendly application with multiple fields that users can filter through to gather specific results.  Placeholders are in place in the text field box to indicate how the search should be entered. For example, upon loading the page, the user can use the "Enter Date" field to filter through all sighting on the specified date.  The user will simply type the date into the form field and by hitting enter, all of the results for that particular date will be selected in the table to the right of their selection:
 
 <img src="https://github.com/crtallent/UFOs/blob/main/static/images/Date.png" />
+
+Likewise, if the user is interested in seeing all sightings for a given state, they will type in the state's abbreviation to filter the table to show only the sightings for that particular state:
+
+<img src="https://github.com/crtallent/UFOs/blob/main/static/images/State.png" />
