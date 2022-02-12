@@ -26,7 +26,7 @@ Likewise, if the user is interested in seeing all sightings for a given state, t
 
 <img src="https://github.com/crtallent/UFOs/blob/main/static/images/State.png" />
 
-Finally, if a user would like to see multiple criteria, such as the below image, in which the fields selected indicate these are all the triangle-shaped sightings on January 1, 2010 in the state of California":
+Finally, if a user would like to see multiple criteria, such as the below image, in which the fields selected indicate these are all the triangle-shaped sightings on January 1, 2010 in the state of California, they will just input these filters in the appropriate fields:
 
 
 <img src="https://github.com/crtallent/UFOs/blob/main/static/images/Multi.png" />
