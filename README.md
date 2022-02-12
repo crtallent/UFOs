@@ -25,3 +25,8 @@ This webpage is a user-friendly application with multiple fields that users can 
 Likewise, if the user is interested in seeing all sightings for a given state, they will type in the state's abbreviation to filter the table to show only the sightings for that particular state:
 
 <img src="https://github.com/crtallent/UFOs/blob/main/static/images/State.png" />
+
+Finally, if a user would like to see multiple criteria, such as the below image, in which the fields selected indicate these are all the triangle-shaped sightings on January 1, 2010 in the state of California":
+
+
+<img src="https://github.com/crtallent/UFOs/blob/main/static/images/Multi.png" />
