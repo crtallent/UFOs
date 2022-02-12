@@ -10,7 +10,7 @@ For this task, we created a webpge with a dynamic title that allows visitors to 
 * Country
 * Shape of Object
 
-The webpage can be accessed via this [link] (https://crtallent.github.io/UFOs).
+The webpage can be accessed via this [link] (https://crtallent.github.io/UFOs/) 
 
 ## Resources
 
